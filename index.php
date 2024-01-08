@@ -63,6 +63,7 @@
 </head>
 
 <body>
+  <!-- sign up page -->
   <h1>Registration</h1>
   <div class="container">
   <form action="index.php" method="post">
